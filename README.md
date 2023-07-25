@@ -12,7 +12,7 @@
 <h3 align="center">Oxydizer (WIP)</h3>
 
   <p align="center">
-    A noob attempt to create a Rust linter using Rust without a plan nor knowledge in either Rust or kernel development.
+    A noob attempt to create a Rust linter using Rust without a plan nor knowledge in either Rust or linting.
     <br />
     <a href="https://github.com/TheCoolerKanjuu/oxydizer"><strong>Explore the docs »</strong></a>
     <br />
