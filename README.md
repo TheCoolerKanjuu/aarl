@@ -5,21 +5,21 @@
 
 <br/>
 <div align="center">
-  <a href="https://github.com/TheCoolerKanjuu/oxydizer">
+  <a href="https://github.com/TheCoolerKanjuu/aarl">
     <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">Oxydizer (WIP)</h3>
+<h3 align="center">AARL (WIP)</h3>
 
   <p align="center">
     A noob attempt to create a Rust linter using Rust without a plan nor knowledge in either Rust or linting.
     <br />
-    <a href="https://github.com/TheCoolerKanjuu/oxydizer"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TheCoolerKanjuu/aarl"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/TheCoolerKanjuu/oxydizer/issues">Report Bug</a>
+    <a href="https://github.com/TheCoolerKanjuu/aarl/issues">Report Bug</a>
     ·
-    <a href="https://github.com/TheCoolerKanjuu/oxydizer/issues">Request Feature</a>
+    <a href="https://github.com/TheCoolerKanjuu/aarl/issues">Request Feature</a>
   </p>
 </div>
 
@@ -104,17 +104,17 @@ Distributed under the Affero GNU General Public License v3.0 License. See `LICEN
 [discord-url]: https://discordapp.com/users/119918351429533696
 [discord-logo]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
 
-[issue-page]: https://github.com/TheCoolerKanjuu/oxydizer/issues
-[repo-address]: https://github.com/TheCoolerKanjuu/oxydizer/issues
+[issue-page]: https://github.com/TheCoolerKanjuu/aarl/issues
+[repo-address]: https://github.com/TheCoolerKanjuu/aarl/issues
 
-[contributors-shield]: https://img.shields.io/github/contributors/TheCoolerKanjuu/oxydizer.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/TheCoolerKanjuu/oxydizer/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/TheCoolerKanjuu/aarl.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/TheCoolerKanjuu/aarl/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/TheCoolerKanjuu/oxydizer.svg?style=for-the-badge
-[forks-url]: https://github.com/TheCoolerKanjuu/oxydizer/network/members
+[forks-shield]: https://img.shields.io/github/forks/TheCoolerKanjuu/aarl.svg?style=for-the-badge
+[forks-url]: https://github.com/TheCoolerKanjuu/aarl/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/TheCoolerKanjuu/oxydizer.svg?style=for-the-badge
-[stars-url]: https://github.com/TheCoolerKanjuu/oxydizer/stargazers
+[stars-shield]: https://img.shields.io/github/stars/TheCoolerKanjuu/aarl.svg?style=for-the-badge
+[stars-url]: https://github.com/TheCoolerKanjuu/aarl/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/TheCoolerKanjuu/oxydizer.svg?style=for-the-badge
-[issues-url]: https://github.com/TheCoolerKanjuu/oxydizer/issues
+[issues-shield]: https://img.shields.io/github/issues/TheCoolerKanjuu/aarl.svg?style=for-the-badge
+[issues-url]: https://github.com/TheCoolerKanjuu/aarl/issues
