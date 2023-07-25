@@ -85,7 +85,7 @@ You are welcome to make suggestions at the [issue page][issue-page], but until I
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt` for more information.
+Distributed under the Affero GNU General Public License v3.0 License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
